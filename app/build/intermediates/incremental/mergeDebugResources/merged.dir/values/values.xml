@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_height">64dp</dimen>
+    <string name="app_name">ContentProviderWithCursorAdapter</string>
+    <string name="photo_desc">Photo</string>
+</resources>
